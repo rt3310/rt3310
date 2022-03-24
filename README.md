@@ -1,16 +1,30 @@
-### Hi there 👋
+![rt3310's github stats](https://github-readme-stats.vercel.app/api?username=rt3310&show_icons=true&theme=merko)
 
-<!--
-**rt3310/rt3310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+### Frontend
+- HTML5, CSS3, JS(ES6)
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- Java
+- Spring Framework, Spring Boot
+- JPA, Querydsl
+- Junit
+- Gradle
+- Nginx, Tomcat
+- MySQL
+- Eclipse, IntelliJ, VSCode
+
+### DevOps
+- AWS EC2, RDS
+- Jenkins
+- Docker
+
+### Collaboration
+- Jira
+- Slack, Notion
+
+
+## 💡 Information
+- Email : btac3310@gmail.com
