@@ -10,16 +10,17 @@
 - Java
 - Spring Framework, Spring Boot
 - JPA, Querydsl
-- Junit
+- JUnit
 - Gradle
-- Nginx, Tomcat
+- Tomcat
 - MySQL
 - Eclipse, IntelliJ, VSCode
 
 ### DevOps
-- AWS EC2, RDS
+- Nginx
 - Jenkins
 - Docker
+- AWS EC2, RDS
 
 ### Collaboration
 - Jira
