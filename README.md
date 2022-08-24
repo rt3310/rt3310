@@ -1,5 +1,5 @@
 ![rt3310's github stats](https://github-readme-stats.vercel.app/api?username=rt3310&show_icons=true&theme=merko)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rt3310)](https://solved.ac/rt3310)
 
 ## 🛠 Skills
 ### Frontend
