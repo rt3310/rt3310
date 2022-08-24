@@ -1,6 +1,3 @@
-![rt3310's github stats](https://github-readme-stats.vercel.app/api?username=rt3310&show_icons=true&theme=merko)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rt3310)](https://solved.ac/rt3310)
-
 ## 🛠 Skills
 ### Frontend
 - <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
@@ -38,3 +35,6 @@
 
 ## 💡 Information
 - Email : btac3310@gmail.com
+
+![rt3310's github stats](https://github-readme-stats.vercel.app/api?username=rt3310&show_icons=true&theme=merko)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rt3310)](https://solved.ac/rt3310)
