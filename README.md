@@ -36,5 +36,5 @@
 ## 💡 Information
 - Email : btac3310@gmail.com
 
-[![rt3310's github stats](https://github-readme-stats.vercel.app/api?username=rt3310&show_icons=true&theme=merko)](https://github-stats-extended.vercel.app/api/?username=rt3310&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=rt3310%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+[![rt3310's GitHub stats](https://github-stats-extended.vercel.app/api/?username=rt3310&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=rt3310's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=rt3310&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=rt3310's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rt3310)](https://solved.ac/rt3310)
